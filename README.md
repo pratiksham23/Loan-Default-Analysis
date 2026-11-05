@@ -63,6 +63,6 @@ Power BI Dashboard for analyzing borrower risk, loan defaults and portfolio prof
 
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/pratiksha-more-8664a9424]
 
-* 🖥️ **GitHub:** []
+* 🖥️ **GitHub:** [https://github.com/pratiksham23]
 
 ⭐️ *Thank you for visiting my profile! Feel free to explore my repositories.*
