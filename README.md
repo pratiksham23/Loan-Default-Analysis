@@ -51,12 +51,6 @@ Power BI Dashboard for analyzing borrower risk, loan defaults and portfolio prof
 
 * **Tech Stack:** Power BI | DAX | Data Modeling | Excel
 
-  ## Dashboard Preview
-
-![Loan Default Dashboard](Dashboard Pg1 Screenshot.png)
-![Loan Default Dashboard](Dashboard Pg2 Screenshot.png)
-
-
 ### 📜 Certifications & Workshops
 
 * **Power BI - Data Analysis and Visualization** – D. G. Ruparel College
